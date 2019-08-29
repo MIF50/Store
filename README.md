@@ -1,2 +1,2 @@
 # Store
-How to use Gesture in android
+Android Gestures: Getting Started, you will learn how to master the core concepts related to detecting gestures with an Android device. First, you will take a close look at the basic touch gestures, double-tap gestures, scroll gestures, time delayed gestures, swipe gestures, drag gestures, and scaling gestures. Then, you will build a draggable, scalable custom ImageView. Finally, you will explore how to use a RecyclerView for moving list items, swiping, and detecting changes to the scroll state. When you’re finished with this course, you will have a foundational knowledge on detecting and responding to gestures that will help you as you move forward to develop mobile applications. 
